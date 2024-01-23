@@ -4,9 +4,12 @@
 ⚡️ Enjoy working in Solidity, love working in Rust 🦀   
 🌱 I'm currently working towards becoming a web3 security researcher ⚔️  
 
-💬 Talk with me about
+💬 Talk to me about
 * web3 security
 * zero-knowledge proofs
+* decentralized identity
+
+👯 I’m looking to collaborate on projects which contribute significantly to web3 mass-adoption
  
 <!--
 **AttissNgo/AttissNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
