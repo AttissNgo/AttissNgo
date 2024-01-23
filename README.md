@@ -5,7 +5,8 @@
 🌱 I'm currently working towards becoming a web3 security researcher ⚔️  
 <p></p>
 💬 Talk with me about
-- web3 security
+* web3 security
+* zero-knowledge proofs
  
 <!--
 **AttissNgo/AttissNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
