@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Attiss Ngo
-- 🛰 Blockchain lead at [Nebulai](https://nebulai.com/)
+🛰 Blockchain developer at [Nebulai](https://nebulai.com/)
+- 
 
 <!--
 **AttissNgo/AttissNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
