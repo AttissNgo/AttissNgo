@@ -10,6 +10,9 @@
 * decentralized identity
 
 👯 I’m looking to collaborate on projects which contribute significantly to web3 mass-adoption
+* account abstraction
+* scaling solutions
+* rethinking user experience
  
 <!--
 **AttissNgo/AttissNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
