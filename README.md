@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Attiss Ngo
 
-> 🛰 Blockchain developer at [Nebulai](https://nebulai.com/)
-- 
-
+- 🛰 Blockchain developer at [Nebulai](https://nebulai.com/)
+- 🌱 I'm currently working towards becoming a web3 security researcher ⚔️
 <!--
 **AttissNgo/AttissNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
