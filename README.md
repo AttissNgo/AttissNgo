@@ -3,7 +3,7 @@
 🛰 Blockchain developer at [Nebulai](https://nebulai.com/)   
 ⚡️ Enjoy working in Solidity, love working in Rust 🦀   
 🌱 I'm currently working towards becoming a web3 security researcher ⚔️  
-<p></p>
+
 💬 Talk with me about
 * web3 security
 * zero-knowledge proofs
