@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Attiss Ngo
 
 🛰 Blockchain developer at [Nebulai](https://nebulai.com/)   
-⚡️ Enjoy working in Solidity, LOVE working in Rust 🦀   
+⚡️ Enjoy working in Solidity, love working in Rust 🦀   
 🌱 I'm currently working towards becoming a web3 security researcher ⚔️   
  
 <!--
