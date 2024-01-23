@@ -2,7 +2,9 @@
 
 🛰 Blockchain developer at [Nebulai](https://nebulai.com/)   
 ⚡️ Enjoy working in Solidity, love working in Rust 🦀   
-🌱 I'm currently working towards becoming a web3 security researcher ⚔️   
+🌱 I'm currently working towards becoming a web3 security researcher ⚔️  
+💬 Chat with me about
+- web3 security
  
 <!--
 **AttissNgo/AttissNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
