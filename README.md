@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Attiss Ngo
 
- 🛰 Blockchain developer at [Nebulai](https://nebulai.com/)
+> 🛰 Blockchain developer at [Nebulai](https://nebulai.com/)
 - 
 
 <!--
