@@ -8,8 +8,6 @@
 * web3 security
 * zero-knowledge proofs
 * decentralized identity
-
-👯 I’m looking to collaborate on projects which contribute significantly to web3 mass-adoption
 * scaling solutions
 * account abstraction
 * rethinking UX in a web3 context
