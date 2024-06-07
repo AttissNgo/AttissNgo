@@ -8,7 +8,6 @@
 * zero-knowledge proofs
 * decentralized identity
 * scaling solutions
-* rethinking UX in a web3 context
  
 <!--
 **AttissNgo/AttissNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
