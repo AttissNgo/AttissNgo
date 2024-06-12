@@ -5,9 +5,9 @@
 🌱 Web3 security is everything ⚔️  
 
 💬 Talk to me about
+* Tokenization of RWAs
 * zero-knowledge proofs
 * decentralized identity
-* scaling solutions
  
 <!--
 **AttissNgo/AttissNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
