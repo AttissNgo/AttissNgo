@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Attiss Ngo
 
-🛰 Smart contract developer at [Nebulai](https://nebulai.com/)   
+🌱 Integrations Engineer at [Interop Labs](https://www.interoplabs.io/)
+<!-- 🛰 Smart contract developer at [Nebulai](https://nebulai.com/)   
 ⚡️ Enjoy working in Solidity, love working in Rust 🦀   
 🌱 Web3 security is everything ⚔️  
 
@@ -8,6 +9,7 @@
 * Tokenization of RWAs
 * zero-knowledge proofs
 * decentralized identity
+-->
  
 <!--
 **AttissNgo/AttissNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
